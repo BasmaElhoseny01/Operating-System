@@ -3,7 +3,7 @@ It is a simple OS to perform selection algorithms among different processes and 
 
 Linux based project
 
-The main file to run is process_generator.c after putting the processes info in the processes.txt file.
+The main file to run is process_generator.c after putting the processes info in the make file.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Scheduling Algorithms:
